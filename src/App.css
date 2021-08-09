@@ -5,12 +5,15 @@ background-image: url("https://cdn.hipwallpaper.com/i/90/51/iRsgUX.jpg");
 }
 .hello{
   text-align: center;
+  color: aliceblue;
+  font-size: 48px;
 }
 
 .Login form {
   padding-top: 100px;
   margin: 0 auto;
   max-width: 320px;
+  color: black;
 }
 .log{
   text-align: center;
